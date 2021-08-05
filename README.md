@@ -5,7 +5,6 @@
 ###
 
 - 🌱 I’m currently learning MLA
-- 👯 I’m looking to collaborate on flutter application
 - 🥅 2022 Goals: Contribute more to Open Source projects
  
  
