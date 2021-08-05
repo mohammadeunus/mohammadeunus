@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mohammad Eunus][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mhmd_eunus?color=%20&label=%20contact%20Me%40ON%20Mubin%20Bhuiyan&logo=facebook&style=for-the-badge)](https://www.facebook.com/mhmdeunus)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mhmd_eunus?color=%20&label=%20reach%20me%40%20Mubin%20Bhuiyan&logo=facebook&style=for-the-badge)](https://www.facebook.com/mhmdeunus)
 
 ###
 
