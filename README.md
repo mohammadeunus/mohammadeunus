@@ -17,9 +17,7 @@
 
 <br />
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mohammad-eunus-7a222816b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/mohammad-eunus-7a222816b?trk=profile-badge">Mohammad Eunus</a></div>
-              
-
+ 
 
 [website]: https://sites.google.com/view/mhmdeunus/
 [twitter]: https://twitter.com/mhmd_eunus
