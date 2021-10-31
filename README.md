@@ -4,8 +4,8 @@
 
 ###
 
-- 🌱 I’m currently learning MLA
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 Looking for internship
+- 🥅 2022 Goals: Contribute in Open Source projects
  
  
 ### Connect with me:
