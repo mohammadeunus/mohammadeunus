@@ -4,7 +4,7 @@
 
 ###
 
-- 🌱 Looking for internship
+- 🌱 Looking for internship in nodejs, django, dataAnalyst or java based framework 
 - 🥅 2022 Goals: Contribute in Open Source projects
  
  
