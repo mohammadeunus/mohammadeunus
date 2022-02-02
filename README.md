@@ -3,8 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mhmd_eunus?color=%20&label=%20reach%20me%40%20Mubin%20Bhuiyan&logo=facebook&style=for-the-badge)](https://www.facebook.com/mhmdeunus)
 
 ###
-
-- 🌱 Looking for internship in nodejs, django, dataAnalyst or java based framework 
+ 
 - 🥅 2022 Goals: Contribute in Open Source projects
  
  
