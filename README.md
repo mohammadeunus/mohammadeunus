@@ -56,7 +56,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi) <br/><br/>
 
 
- 
+ <br />
 
 [website]: https://sites.google.com/view/mhmdeunus/
 [twitter]: https://twitter.com/mhmd_eunus
