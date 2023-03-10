@@ -1,4 +1,4 @@
-### Hi there, I'm [Mohammad Eunus][website] 👋
+# Hi there, I'm [Mohammad Eunus][website] 👋
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1995&pause=1000&width=435&lines=Software+Engineer;Problem+Solver;ML+Enthusiast" alt="Typing SVG" /></a>
