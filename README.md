@@ -7,8 +7,7 @@
 
 ## 😎 What I do currently?
 
-Right now I'm working on c# projects, the framcework I am working on is dot net 
-
+Right now I am exploring C# and developing my problem-solving skills to pursue a career in .NET development.
 
 ## 🧨 What do I use to get the job done ?
 
