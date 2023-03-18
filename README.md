@@ -20,7 +20,7 @@ Right now I am exploring C# and developing my problem-solving skills to pursue a
 * Hunger/desire (helps to ship small iterative chunks of work 🐐).
 
 ```
-const opinion = " Embrace the challenge of the unknown, for what we perceive as 'hard' is merely a lack of familiarity. With a willingness to learn and persevere, we can conquer any task. In this vast universe, nothing is truly difficult, only the boundaries we create within our own minds. Break free from comfort and push through the barriers of perceived difficulty "
+const opinion = " Challenges are an opportunity for growth and transformation. Instead of being intimidated by the unknown or the perceived difficulty of a task, we can approach it with curiosity and an open mind. By embracing challenges, we can shrink our comfort zones and develop new skills and perspectives "
 const unpopularOpinion = () => console.log(opinion)
 
 unpopularOpinion()
