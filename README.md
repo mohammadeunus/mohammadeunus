@@ -1,10 +1,8 @@
-# Hi there, I'm [Mohammad Eunus][website] 👋
+🌟 **Assalamualaikum! I'm [Mohammad Eunus][portfolio] 👋**
 
- 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mhmd_eunus?color=%20&label=%20reach%20me%40%20Mohammad%20Eunus&logo=facebook&style=for-the-badge)](https://www.facebook.com/mhmdeunus)
+A Software Engineer based in Bangladesh. Curious to know more about me? Connect with me on [LinkedIn][linkedin]. 
 
- 
-[website]: https://sites.google.com/view/mhmdeunus/
-[twitter]: https://twitter.com/mhmd_eunus
-[facebook]: https://www.facebook.com/mhmdeunus/
-[linkedin]: https://www.linkedin.com/in/mohammad-eunus-7a222816b/  
+🐦 [Explore my portfolio!][portfolio]
+
+[portfolio]: https://mohammadeunus.github.io/
+[linkedin]: https://www.linkedin.com/in/mohammadeunus/
