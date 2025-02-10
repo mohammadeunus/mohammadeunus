@@ -2,7 +2,7 @@
 
 A Software Engineer based in Bangladesh, passionate about coding and crafting solutions.  
 
-**I love coding**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and documenting**&nbsp;&nbsp;![](unicorn.gif)  
+**I love coding**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and documenting**.
 
 🐦 [Check out my blogs!][portfolio] &nbsp;&nbsp; Want to connect? 💼 [Find me on LinkedIn][linkedin]  
 
