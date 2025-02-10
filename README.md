@@ -4,8 +4,9 @@ A Software Engineer based in Bangladesh, passionate about coding and crafting so
 
 **I love coding**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and documenting**.
 
-🐦 [Check out my blogs!][portfolio] &nbsp;&nbsp; Want to connect? 💼 [Find me on LinkedIn][linkedin]  
+🐦 [Check out my blogs!][blogs] &nbsp;&nbsp; Want to connect? 💼 [Find me on LinkedIn][linkedin]  
 
-[portfolio]: https://mohammadeunus.github.io/  
+[portfolio]: https://mohammadeunus.github.io/me  
+[blogs]: https://mohammadeunus.github.io/  
 [linkedin]: https://www.linkedin.com/in/mohammadeunus/  
  
