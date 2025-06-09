@@ -6,7 +6,7 @@ A Software Engineer based in Bangladesh, passionate about coding and crafting so
 
 🐦 [Check out my blogs!][blogs] &nbsp;&nbsp; Want to connect? 💼 [Find me on LinkedIn][linkedin]  
 
-[portfolio]: https://mohammadeunus.github.io/me  
-[blogs]: https://mohammadeunus.github.io/  
+[portfolio]: https://portfolio.eunus.dev  
+[blogs]: https://eunus.dev  
 [linkedin]: https://www.linkedin.com/in/mohammadeunus/  
  
